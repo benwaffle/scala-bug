@@ -1,3 +1,1 @@
-class Test {
-  println(Hello.name)
-}
+asdf
